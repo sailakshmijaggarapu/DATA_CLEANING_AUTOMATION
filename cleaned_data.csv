@@ -1,0 +1,885 @@
+PassengerId,Survived,Passenger_Class,Sex,Age,Siblings_Spouses,Parents_Children,Fare,Cabin,Embarked
+1,0,3,male,22.0,1,0,7.25,Not Assigned,S
+2,1,1,female,38.0,1,0,71.2833,C85,C
+3,1,3,female,26.0,0,0,7.925,Not Assigned,S
+4,1,1,female,35.0,1,0,53.1,C123,S
+5,0,3,male,35.0,0,0,8.05,Not Assigned,S
+6,0,3,male,28.0,0,0,8.4583,Not Assigned,Q
+7,0,1,male,54.0,0,0,51.8625,E46,S
+8,1,3,female,27.0,0,2,11.1333,Not Assigned,S
+9,1,2,female,14.0,1,0,30.0708,Not Assigned,C
+10,1,3,female,4.0,1,1,16.7,G6,S
+11,1,1,female,58.0,0,0,26.55,C103,S
+12,0,3,male,20.0,0,0,8.05,Not Assigned,S
+13,0,3,male,39.0,1,5,31.275,Not Assigned,S
+14,0,3,female,14.0,0,0,7.8542,Not Assigned,S
+15,1,2,female,55.0,0,0,16.0,Not Assigned,S
+16,0,3,male,2.0,4,1,29.125,Not Assigned,Q
+17,1,2,male,28.0,0,0,13.0,Not Assigned,S
+18,0,3,female,31.0,1,0,18.0,Not Assigned,S
+19,1,3,female,28.0,0,0,7.225,Not Assigned,C
+20,0,2,male,35.0,0,0,26.0,Not Assigned,S
+21,1,2,male,34.0,0,0,13.0,D56,S
+22,1,3,female,15.0,0,0,8.0292,Not Assigned,Q
+23,1,1,male,28.0,0,0,35.5,A6,S
+24,0,3,female,8.0,3,1,21.075,Not Assigned,S
+25,1,3,female,38.0,1,5,31.3875,Not Assigned,S
+26,0,3,male,28.0,0,0,7.225,Not Assigned,C
+27,0,1,male,19.0,3,2,263.0,C23 C25 C27,S
+28,1,3,female,28.0,0,0,7.8792,Not Assigned,Q
+29,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+30,0,1,male,40.0,0,0,27.7208,Not Assigned,C
+31,1,1,female,28.0,1,0,146.5208,B78,C
+32,1,3,female,28.0,0,0,7.75,Not Assigned,Q
+33,0,2,male,66.0,0,0,10.5,Not Assigned,S
+34,0,1,male,28.0,1,0,82.1708,Not Assigned,C
+35,0,1,male,42.0,1,0,52.0,Not Assigned,S
+36,1,3,male,28.0,0,0,7.2292,Not Assigned,C
+37,0,3,male,21.0,0,0,8.05,Not Assigned,S
+38,0,3,female,18.0,2,0,18.0,Not Assigned,S
+39,1,3,female,14.0,1,0,11.2417,Not Assigned,C
+40,0,3,female,40.0,1,0,9.475,Not Assigned,S
+41,0,2,female,27.0,1,0,21.0,Not Assigned,S
+42,0,3,male,28.0,0,0,7.8958,Not Assigned,C
+43,1,2,female,3.0,1,2,41.5792,Not Assigned,C
+44,1,3,female,19.0,0,0,7.8792,Not Assigned,Q
+45,0,3,male,28.0,0,0,8.05,Not Assigned,S
+46,0,3,male,28.0,1,0,15.5,Not Assigned,Q
+47,1,3,female,28.0,0,0,7.75,Not Assigned,Q
+48,0,3,male,28.0,2,0,21.6792,Not Assigned,C
+49,0,3,female,18.0,1,0,17.8,Not Assigned,S
+50,0,3,male,7.0,4,1,39.6875,Not Assigned,S
+51,0,3,male,21.0,0,0,7.8,Not Assigned,S
+52,1,1,female,49.0,1,0,76.7292,D33,C
+53,1,2,female,29.0,1,0,26.0,Not Assigned,S
+54,0,1,male,65.0,0,1,61.9792,B30,C
+55,1,1,male,28.0,0,0,35.5,C52,S
+56,1,2,female,21.0,0,0,10.5,Not Assigned,S
+57,0,3,male,28.5,0,0,7.2292,Not Assigned,C
+58,1,2,female,5.0,1,2,27.75,Not Assigned,S
+59,0,3,male,11.0,5,2,46.9,Not Assigned,S
+60,0,3,male,22.0,0,0,7.2292,Not Assigned,C
+61,1,1,female,38.0,0,0,80.0,B28,S
+62,0,1,male,45.0,1,0,83.475,C83,S
+63,0,3,male,4.0,3,2,27.9,Not Assigned,S
+64,0,1,male,28.0,0,0,27.7208,Not Assigned,C
+65,1,3,male,28.0,1,1,15.2458,Not Assigned,C
+66,1,2,female,29.0,0,0,10.5,F33,S
+67,0,3,male,19.0,0,0,8.1583,Not Assigned,S
+68,1,3,female,17.0,4,2,7.925,Not Assigned,S
+69,0,3,male,26.0,2,0,8.6625,Not Assigned,S
+70,0,2,male,32.0,0,0,10.5,Not Assigned,S
+71,0,3,female,16.0,5,2,46.9,Not Assigned,S
+72,0,2,male,21.0,0,0,73.5,Not Assigned,S
+73,0,3,male,26.0,1,0,14.4542,Not Assigned,C
+74,1,3,male,32.0,0,0,56.4958,Not Assigned,S
+75,0,3,male,25.0,0,0,7.65,F G73,S
+76,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+77,0,3,male,28.0,0,0,8.05,Not Assigned,S
+78,1,2,male,0.83,0,2,29.0,Not Assigned,S
+79,1,3,female,30.0,0,0,12.475,Not Assigned,S
+80,0,3,male,22.0,0,0,9.0,Not Assigned,S
+81,1,3,male,29.0,0,0,9.5,Not Assigned,S
+82,1,3,female,28.0,0,0,7.7875,Not Assigned,Q
+83,0,1,male,28.0,0,0,47.1,Not Assigned,S
+84,1,2,female,17.0,0,0,10.5,Not Assigned,S
+85,1,3,female,33.0,3,0,15.85,Not Assigned,S
+86,0,3,male,16.0,1,3,34.375,Not Assigned,S
+87,0,3,male,28.0,0,0,8.05,Not Assigned,S
+88,1,1,female,23.0,3,2,263.0,C23 C25 C27,S
+89,0,3,male,24.0,0,0,8.05,Not Assigned,S
+90,0,3,male,29.0,0,0,8.05,Not Assigned,S
+91,0,3,male,20.0,0,0,7.8542,Not Assigned,S
+92,0,1,male,46.0,1,0,61.175,E31,S
+93,0,3,male,26.0,1,2,20.575,Not Assigned,S
+94,0,3,male,59.0,0,0,7.25,Not Assigned,S
+95,0,3,male,28.0,0,0,8.05,Not Assigned,S
+96,0,1,male,71.0,0,0,34.6542,A5,C
+97,1,1,male,23.0,0,1,63.3583,D10 D12,C
+98,1,2,female,34.0,0,1,23.0,Not Assigned,S
+99,0,2,male,34.0,1,0,26.0,Not Assigned,S
+100,0,3,female,28.0,0,0,7.8958,Not Assigned,S
+101,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+102,0,1,male,21.0,0,1,77.2875,D26,S
+103,0,3,male,33.0,0,0,8.6542,Not Assigned,S
+104,0,3,male,37.0,2,0,7.925,Not Assigned,S
+105,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+106,1,3,female,21.0,0,0,7.65,Not Assigned,S
+107,1,3,male,28.0,0,0,7.775,Not Assigned,S
+108,0,3,male,38.0,0,0,7.8958,Not Assigned,S
+109,1,3,female,28.0,1,0,24.15,Not Assigned,Q
+110,0,1,male,47.0,0,0,52.0,C110,S
+111,0,3,female,14.5,1,0,14.4542,Not Assigned,C
+112,0,3,male,22.0,0,0,8.05,Not Assigned,S
+113,0,3,female,20.0,1,0,9.825,Not Assigned,S
+114,0,3,female,17.0,0,0,14.4583,Not Assigned,C
+115,0,3,male,21.0,0,0,7.925,Not Assigned,S
+116,0,3,male,70.5,0,0,7.75,Not Assigned,Q
+117,0,2,male,29.0,1,0,21.0,Not Assigned,S
+118,0,1,male,24.0,0,1,247.5208,B58 B60,C
+119,0,3,female,2.0,4,2,31.275,Not Assigned,S
+120,0,2,male,21.0,2,0,73.5,Not Assigned,S
+121,0,3,male,28.0,0,0,8.05,Not Assigned,S
+122,0,2,male,32.5,1,0,30.0708,Not Assigned,C
+123,1,2,female,32.5,0,0,13.0,E101,S
+124,0,1,male,54.0,0,1,77.2875,D26,S
+125,1,3,male,12.0,1,0,11.2417,Not Assigned,C
+126,0,3,male,28.0,0,0,7.75,Not Assigned,Q
+127,1,3,male,24.0,0,0,7.1417,Not Assigned,S
+128,1,3,female,28.0,1,1,22.3583,F E69,C
+129,0,3,male,45.0,0,0,6.975,Not Assigned,S
+130,0,3,male,33.0,0,0,7.8958,Not Assigned,C
+131,0,3,male,20.0,0,0,7.05,Not Assigned,S
+132,0,3,female,47.0,1,0,14.5,Not Assigned,S
+133,1,2,female,29.0,1,0,26.0,Not Assigned,S
+134,0,2,male,25.0,0,0,13.0,Not Assigned,S
+135,0,2,male,23.0,0,0,15.0458,Not Assigned,C
+136,1,1,female,19.0,0,2,26.2833,D47,S
+137,0,1,male,37.0,1,0,53.1,C123,S
+138,0,3,male,16.0,0,0,9.2167,Not Assigned,S
+139,0,1,male,24.0,0,0,79.2,B86,C
+140,0,3,female,28.0,0,2,15.2458,Not Assigned,C
+141,1,3,female,22.0,0,0,7.75,Not Assigned,S
+142,1,3,female,24.0,1,0,15.85,Not Assigned,S
+143,0,3,male,19.0,0,0,6.75,Not Assigned,Q
+144,0,2,male,18.0,0,0,11.5,Not Assigned,S
+145,0,2,male,19.0,1,1,36.75,Not Assigned,S
+146,1,3,male,27.0,0,0,7.7958,Not Assigned,S
+147,0,3,female,9.0,2,2,34.375,Not Assigned,S
+148,0,2,male,36.5,0,2,26.0,F2,S
+149,0,2,male,42.0,0,0,13.0,Not Assigned,S
+150,0,2,male,51.0,0,0,12.525,Not Assigned,S
+151,1,1,female,22.0,1,0,66.6,C2,S
+152,0,3,male,55.5,0,0,8.05,Not Assigned,S
+153,0,3,male,40.5,0,2,14.5,Not Assigned,S
+154,0,3,male,28.0,0,0,7.3125,Not Assigned,S
+155,0,1,male,51.0,0,1,61.3792,Not Assigned,C
+156,1,3,female,16.0,0,0,7.7333,Not Assigned,Q
+157,0,3,male,30.0,0,0,8.05,Not Assigned,S
+158,0,3,male,28.0,0,0,8.6625,Not Assigned,S
+159,0,3,male,28.0,8,2,69.55,Not Assigned,S
+160,0,3,male,44.0,0,1,16.1,Not Assigned,S
+161,1,2,female,40.0,0,0,15.75,Not Assigned,S
+162,0,3,male,26.0,0,0,7.775,Not Assigned,S
+163,0,3,male,17.0,0,0,8.6625,Not Assigned,S
+164,0,3,male,1.0,4,1,39.6875,Not Assigned,S
+165,1,3,male,9.0,0,2,20.525,Not Assigned,S
+166,1,1,female,28.0,0,1,55.0,E33,S
+167,0,3,female,45.0,1,4,27.9,Not Assigned,S
+168,0,1,male,28.0,0,0,25.925,Not Assigned,S
+169,0,3,male,28.0,0,0,56.4958,Not Assigned,S
+170,0,1,male,61.0,0,0,33.5,B19,S
+171,0,3,male,4.0,4,1,29.125,Not Assigned,Q
+172,1,3,female,1.0,1,1,11.1333,Not Assigned,S
+173,0,3,male,21.0,0,0,7.925,Not Assigned,S
+174,0,1,male,56.0,0,0,30.6958,A7,C
+175,0,3,male,18.0,1,1,7.8542,Not Assigned,S
+176,0,3,male,28.0,3,1,25.4667,Not Assigned,S
+177,0,1,female,50.0,0,0,28.7125,C49,C
+178,0,2,male,30.0,0,0,13.0,Not Assigned,S
+179,0,3,male,36.0,0,0,0.0,Not Assigned,S
+180,0,3,female,28.0,8,2,69.55,Not Assigned,S
+181,0,2,male,28.0,0,0,15.05,Not Assigned,C
+182,0,3,male,9.0,4,2,31.3875,Not Assigned,S
+183,1,2,male,1.0,2,1,39.0,F4,S
+184,1,3,female,4.0,0,2,22.025,Not Assigned,S
+185,0,1,male,28.0,0,0,50.0,A32,S
+186,1,3,female,28.0,1,0,15.5,Not Assigned,Q
+187,1,1,male,45.0,0,0,26.55,Not Assigned,S
+188,0,3,male,40.0,1,1,15.5,Not Assigned,Q
+189,0,3,male,36.0,0,0,7.8958,Not Assigned,S
+190,1,2,female,32.0,0,0,13.0,Not Assigned,S
+191,0,2,male,19.0,0,0,13.0,Not Assigned,S
+192,1,3,female,19.0,1,0,7.8542,Not Assigned,S
+193,1,2,male,3.0,1,1,26.0,F2,S
+194,1,1,female,44.0,0,0,27.7208,B4,C
+195,1,1,female,58.0,0,0,146.5208,B80,C
+196,0,3,male,28.0,0,0,7.75,Not Assigned,Q
+197,0,3,male,42.0,0,1,8.4042,Not Assigned,S
+198,1,3,female,28.0,0,0,7.75,Not Assigned,Q
+199,0,2,female,24.0,0,0,13.0,Not Assigned,S
+200,0,3,male,28.0,0,0,9.5,Not Assigned,S
+201,0,3,male,28.0,8,2,69.55,Not Assigned,S
+202,0,3,male,34.0,0,0,6.4958,Not Assigned,S
+203,0,3,male,45.5,0,0,7.225,Not Assigned,C
+204,1,3,male,18.0,0,0,8.05,Not Assigned,S
+205,0,3,female,2.0,0,1,10.4625,G6,S
+206,0,3,male,32.0,1,0,15.85,Not Assigned,S
+207,1,3,male,26.0,0,0,18.7875,Not Assigned,C
+208,1,3,female,16.0,0,0,7.75,Not Assigned,Q
+209,1,1,male,40.0,0,0,31.0,A31,C
+210,0,3,male,24.0,0,0,7.05,Not Assigned,S
+211,0,3,male,22.0,0,0,7.25,Not Assigned,S
+212,0,2,male,30.0,0,0,13.0,Not Assigned,S
+213,0,3,male,28.0,1,0,7.75,Not Assigned,Q
+214,1,1,female,31.0,1,0,113.275,D36,C
+215,1,3,female,27.0,0,0,7.925,Not Assigned,S
+216,0,2,male,42.0,1,0,27.0,Not Assigned,S
+217,1,1,female,32.0,0,0,76.2917,D15,C
+218,0,2,male,30.0,0,0,10.5,Not Assigned,S
+219,1,3,male,16.0,0,0,8.05,Not Assigned,S
+220,0,2,male,27.0,0,0,13.0,Not Assigned,S
+221,0,3,male,51.0,0,0,8.05,Not Assigned,S
+222,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+223,1,1,male,38.0,1,0,90.0,C93,S
+224,0,3,male,22.0,0,0,9.35,Not Assigned,S
+225,1,2,male,19.0,0,0,10.5,Not Assigned,S
+226,0,3,male,20.5,0,0,7.25,Not Assigned,S
+227,0,2,male,18.0,0,0,13.0,Not Assigned,S
+228,0,3,female,28.0,3,1,25.4667,Not Assigned,S
+229,1,1,female,35.0,1,0,83.475,C83,S
+230,0,3,male,29.0,0,0,7.775,Not Assigned,S
+231,0,2,male,59.0,0,0,13.5,Not Assigned,S
+232,1,3,female,5.0,4,2,31.3875,Not Assigned,S
+233,0,2,male,24.0,0,0,10.5,Not Assigned,S
+234,0,3,female,28.0,0,0,7.55,Not Assigned,S
+235,0,2,male,44.0,1,0,26.0,Not Assigned,S
+236,1,2,female,8.0,0,2,26.25,Not Assigned,S
+237,0,2,male,19.0,0,0,10.5,Not Assigned,S
+238,0,2,male,33.0,0,0,12.275,Not Assigned,S
+239,0,3,female,28.0,1,0,14.4542,Not Assigned,C
+240,1,3,female,28.0,1,0,15.5,Not Assigned,Q
+241,0,2,male,29.0,0,0,10.5,Not Assigned,S
+242,0,3,male,22.0,0,0,7.125,Not Assigned,S
+243,0,3,male,30.0,0,0,7.225,Not Assigned,C
+244,0,1,male,44.0,2,0,90.0,C78,Q
+245,0,3,female,25.0,0,0,7.775,Not Assigned,S
+246,1,2,female,24.0,0,2,14.5,Not Assigned,S
+247,1,1,male,37.0,1,1,52.5542,D35,S
+248,0,2,male,54.0,1,0,26.0,Not Assigned,S
+249,0,3,male,28.0,0,0,7.25,Not Assigned,S
+250,0,3,female,29.0,1,1,10.4625,G6,S
+251,0,1,male,62.0,0,0,26.55,C87,S
+252,0,3,male,30.0,1,0,16.1,Not Assigned,S
+253,0,3,female,41.0,0,2,20.2125,Not Assigned,S
+254,1,3,female,29.0,0,2,15.2458,Not Assigned,C
+255,1,1,female,28.0,0,0,79.2,Not Assigned,C
+256,1,1,female,30.0,0,0,86.5,B77,S
+257,1,1,female,35.0,0,0,512.3292,Not Assigned,C
+258,1,2,female,50.0,0,1,26.0,Not Assigned,S
+259,0,3,male,28.0,0,0,7.75,Not Assigned,Q
+260,1,3,male,3.0,4,2,31.3875,Not Assigned,S
+261,0,1,male,52.0,1,1,79.65,E67,S
+262,0,1,male,40.0,0,0,0.0,B94,S
+263,0,3,female,28.0,0,0,7.75,Not Assigned,Q
+264,0,2,male,36.0,0,0,10.5,Not Assigned,S
+265,0,3,male,16.0,4,1,39.6875,Not Assigned,S
+266,1,3,male,25.0,1,0,7.775,Not Assigned,S
+267,1,1,female,58.0,0,1,153.4625,C125,S
+268,1,1,female,35.0,0,0,135.6333,C99,S
+269,0,1,male,28.0,0,0,31.0,Not Assigned,S
+270,1,3,male,25.0,0,0,0.0,Not Assigned,S
+271,1,2,female,41.0,0,1,19.5,Not Assigned,S
+272,0,1,male,37.0,0,1,29.7,C118,C
+273,1,3,female,28.0,0,0,7.75,Not Assigned,Q
+274,1,1,female,63.0,1,0,77.9583,D7,S
+275,0,3,female,45.0,0,0,7.75,Not Assigned,S
+276,0,2,male,28.0,0,0,0.0,Not Assigned,S
+277,0,3,male,7.0,4,1,29.125,Not Assigned,Q
+278,1,3,female,35.0,1,1,20.25,Not Assigned,S
+279,0,3,male,65.0,0,0,7.75,Not Assigned,Q
+280,0,3,male,28.0,0,0,7.8542,Not Assigned,S
+281,0,3,male,16.0,0,0,9.5,Not Assigned,S
+282,1,3,male,19.0,0,0,8.05,Not Assigned,S
+283,0,1,male,28.0,0,0,26.0,A19,S
+284,0,3,male,33.0,0,0,8.6625,Not Assigned,C
+285,1,3,male,30.0,0,0,9.5,Not Assigned,S
+286,0,3,male,22.0,0,0,7.8958,Not Assigned,S
+287,1,2,male,42.0,0,0,13.0,Not Assigned,S
+288,1,3,female,22.0,0,0,7.75,Not Assigned,Q
+289,1,1,female,26.0,0,0,78.85,Not Assigned,S
+290,1,1,female,19.0,1,0,91.0792,B49,C
+291,0,3,female,24.0,0,0,8.85,Not Assigned,S
+292,0,3,male,24.0,0,0,7.8958,Not Assigned,S
+293,0,1,male,28.0,0,0,27.7208,Not Assigned,C
+294,0,3,male,23.5,0,0,7.2292,Not Assigned,C
+295,0,1,female,2.0,1,2,151.55,C22 C26,S
+296,1,1,male,28.0,0,0,30.5,C106,S
+297,1,1,female,50.0,0,1,247.5208,B58 B60,C
+298,1,3,female,28.0,0,0,7.75,Not Assigned,Q
+299,1,3,male,28.0,2,0,23.25,Not Assigned,Q
+300,0,3,male,19.0,0,0,0.0,Not Assigned,S
+301,1,2,female,28.0,0,0,12.35,E101,Q
+302,0,3,male,28.0,0,0,8.05,Not Assigned,S
+303,1,1,male,0.92,1,2,151.55,C22 C26,S
+304,1,1,female,28.0,0,0,110.8833,Not Assigned,C
+305,1,1,female,17.0,1,0,108.9,C65,C
+306,0,2,male,30.0,1,0,24.0,Not Assigned,C
+307,1,1,female,30.0,0,0,56.9292,E36,C
+308,1,1,female,24.0,0,0,83.1583,C54,C
+309,1,1,female,18.0,2,2,262.375,B57 B59 B63 B66,C
+310,0,2,female,26.0,1,1,26.0,Not Assigned,S
+311,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+312,0,2,male,43.0,1,1,26.25,Not Assigned,S
+313,1,3,female,26.0,0,0,7.8542,Not Assigned,S
+314,1,2,female,24.0,1,0,26.0,Not Assigned,S
+315,0,2,male,54.0,0,0,14.0,Not Assigned,S
+316,1,1,female,31.0,0,2,164.8667,C7,S
+317,1,1,female,40.0,1,1,134.5,E34,C
+318,0,3,male,22.0,0,0,7.25,Not Assigned,S
+319,0,3,male,27.0,0,0,7.8958,Not Assigned,S
+320,1,2,female,30.0,0,0,12.35,Not Assigned,Q
+321,1,2,female,22.0,1,1,29.0,Not Assigned,S
+322,0,3,male,28.0,8,2,69.55,Not Assigned,S
+323,1,1,female,36.0,0,0,135.6333,C32,C
+324,0,3,male,61.0,0,0,6.2375,Not Assigned,S
+325,1,2,female,36.0,0,0,13.0,D,S
+326,1,3,female,31.0,1,1,20.525,Not Assigned,S
+327,1,1,female,16.0,0,1,57.9792,B18,C
+328,1,3,female,28.0,2,0,23.25,Not Assigned,Q
+329,0,1,male,45.5,0,0,28.5,C124,S
+330,0,1,male,38.0,0,1,153.4625,C91,S
+331,0,3,male,16.0,2,0,18.0,Not Assigned,S
+332,1,1,female,28.0,1,0,133.65,Not Assigned,S
+333,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+334,0,1,male,29.0,1,0,66.6,C2,S
+335,1,1,female,41.0,0,0,134.5,E40,C
+336,1,3,male,45.0,0,0,8.05,Not Assigned,S
+337,0,1,male,45.0,0,0,35.5,T,S
+338,1,2,male,2.0,1,1,26.0,F2,S
+339,1,1,female,24.0,3,2,263.0,C23 C25 C27,S
+340,0,2,male,28.0,0,0,13.0,Not Assigned,S
+341,0,2,male,25.0,0,0,13.0,Not Assigned,S
+342,0,2,male,36.0,0,0,13.0,Not Assigned,S
+343,1,2,female,24.0,0,0,13.0,F33,S
+344,1,2,female,40.0,0,0,13.0,Not Assigned,S
+345,1,3,female,28.0,1,0,16.1,Not Assigned,S
+346,1,3,male,3.0,1,1,15.9,Not Assigned,S
+347,0,3,male,42.0,0,0,8.6625,Not Assigned,S
+348,0,3,male,23.0,0,0,9.225,Not Assigned,S
+349,0,1,male,28.0,0,0,35.0,C128,S
+350,0,3,male,15.0,1,1,7.2292,Not Assigned,C
+351,0,3,male,25.0,1,0,17.8,Not Assigned,S
+352,0,3,male,28.0,0,0,7.225,Not Assigned,C
+353,0,3,male,28.0,0,0,9.5,Not Assigned,S
+354,1,1,female,22.0,0,1,55.0,E33,S
+355,0,2,female,38.0,0,0,13.0,Not Assigned,S
+356,1,3,female,28.0,0,0,7.8792,Not Assigned,Q
+357,1,3,female,28.0,0,0,7.8792,Not Assigned,Q
+358,0,3,male,40.0,1,4,27.9,Not Assigned,S
+359,0,2,male,29.0,1,0,27.7208,Not Assigned,C
+360,0,3,female,45.0,0,1,14.4542,Not Assigned,C
+361,0,3,male,35.0,0,0,7.05,Not Assigned,S
+362,0,3,male,28.0,1,0,15.5,Not Assigned,Q
+363,0,3,male,30.0,0,0,7.25,Not Assigned,S
+364,1,1,female,60.0,1,0,75.25,D37,C
+365,1,3,female,28.0,0,0,7.2292,Not Assigned,C
+366,1,3,female,28.0,0,0,7.75,Not Assigned,Q
+367,1,1,female,24.0,0,0,69.3,B35,C
+368,1,1,male,25.0,1,0,55.4417,E50,C
+369,0,3,male,18.0,1,0,6.4958,Not Assigned,S
+370,0,3,male,19.0,0,0,8.05,Not Assigned,S
+371,0,1,male,22.0,0,0,135.6333,Not Assigned,C
+372,0,3,female,3.0,3,1,21.075,Not Assigned,S
+373,1,1,female,28.0,1,0,82.1708,Not Assigned,C
+374,1,3,female,22.0,0,0,7.25,Not Assigned,S
+375,0,1,male,27.0,0,2,211.5,C82,C
+376,0,3,male,20.0,0,0,4.0125,Not Assigned,C
+377,0,3,male,19.0,0,0,7.775,Not Assigned,S
+378,1,1,female,42.0,0,0,227.525,Not Assigned,C
+379,1,3,female,1.0,0,2,15.7417,Not Assigned,C
+380,0,3,male,32.0,0,0,7.925,Not Assigned,S
+381,1,1,female,35.0,1,0,52.0,Not Assigned,S
+382,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+383,0,2,male,18.0,0,0,73.5,Not Assigned,S
+384,0,3,male,1.0,5,2,46.9,Not Assigned,S
+385,1,2,female,36.0,0,0,13.0,Not Assigned,S
+386,0,3,male,28.0,0,0,7.7292,Not Assigned,Q
+387,1,2,female,17.0,0,0,12.0,Not Assigned,C
+388,1,1,male,36.0,1,2,120.0,B96 B98,S
+389,1,3,male,21.0,0,0,7.7958,Not Assigned,S
+390,0,3,male,28.0,2,0,7.925,Not Assigned,S
+391,1,1,female,23.0,1,0,113.275,D36,C
+392,1,3,female,24.0,0,2,16.7,G6,S
+393,0,3,male,22.0,0,0,7.7958,Not Assigned,S
+394,0,3,female,31.0,0,0,7.8542,Not Assigned,S
+395,0,2,male,46.0,0,0,26.0,Not Assigned,S
+396,0,2,male,23.0,0,0,10.5,Not Assigned,S
+397,1,2,female,28.0,0,0,12.65,Not Assigned,S
+398,1,3,male,39.0,0,0,7.925,Not Assigned,S
+399,0,3,male,26.0,0,0,8.05,Not Assigned,S
+400,0,3,female,21.0,1,0,9.825,Not Assigned,S
+401,0,3,male,28.0,1,0,15.85,Not Assigned,S
+402,0,3,female,20.0,0,0,8.6625,Not Assigned,S
+403,0,2,male,34.0,1,0,21.0,Not Assigned,S
+404,0,3,male,51.0,0,0,7.75,Not Assigned,S
+405,1,2,male,3.0,1,1,18.75,Not Assigned,S
+406,0,3,male,21.0,0,0,7.775,Not Assigned,S
+407,0,3,female,28.0,3,1,25.4667,Not Assigned,S
+408,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+409,0,3,male,28.0,0,0,6.8583,Not Assigned,Q
+410,1,1,female,33.0,1,0,90.0,C78,Q
+411,0,2,male,28.0,0,0,0.0,Not Assigned,S
+412,1,3,male,44.0,0,0,7.925,Not Assigned,S
+413,0,3,female,28.0,0,0,8.05,Not Assigned,S
+414,1,2,female,34.0,1,1,32.5,Not Assigned,S
+415,1,2,female,18.0,0,2,13.0,Not Assigned,S
+416,0,2,male,30.0,0,0,13.0,Not Assigned,S
+417,0,3,female,10.0,0,2,24.15,Not Assigned,S
+418,0,3,male,28.0,0,0,7.8958,Not Assigned,C
+419,0,3,male,21.0,0,0,7.7333,Not Assigned,Q
+420,0,3,male,29.0,0,0,7.875,Not Assigned,S
+421,0,3,female,28.0,1,1,14.4,Not Assigned,S
+422,0,3,male,28.0,0,0,7.25,Not Assigned,S
+423,1,2,female,28.0,1,0,26.0,Not Assigned,S
+424,1,2,female,19.0,0,0,26.0,Not Assigned,S
+425,0,3,male,28.0,0,0,7.75,Not Assigned,Q
+426,1,3,male,32.0,0,0,8.05,E10,S
+427,1,1,male,28.0,0,0,26.55,C52,S
+428,1,3,female,28.0,1,0,16.1,Not Assigned,S
+429,1,2,female,42.0,1,0,26.0,Not Assigned,S
+430,0,3,male,17.0,0,0,7.125,Not Assigned,S
+431,0,1,male,50.0,1,0,55.9,E44,S
+432,1,1,female,14.0,1,2,120.0,B96 B98,S
+433,0,3,female,21.0,2,2,34.375,Not Assigned,S
+434,1,2,female,24.0,2,3,18.75,Not Assigned,S
+435,0,1,male,64.0,1,4,263.0,C23 C25 C27,S
+436,0,2,male,31.0,0,0,10.5,Not Assigned,S
+437,1,2,female,45.0,1,1,26.25,Not Assigned,S
+438,0,3,male,20.0,0,0,9.5,Not Assigned,S
+439,0,3,male,25.0,1,0,7.775,Not Assigned,S
+440,1,2,female,28.0,0,0,13.0,Not Assigned,S
+441,1,3,male,28.0,0,0,8.1125,Not Assigned,S
+442,1,1,male,4.0,0,2,81.8583,A34,S
+443,1,2,female,13.0,0,1,19.5,Not Assigned,S
+444,1,1,male,34.0,0,0,26.55,Not Assigned,S
+445,1,3,female,5.0,2,1,19.2583,Not Assigned,C
+446,1,1,male,52.0,0,0,30.5,C104,S
+447,0,2,male,36.0,1,2,27.75,Not Assigned,S
+448,0,3,male,28.0,1,0,19.9667,Not Assigned,S
+449,0,1,male,30.0,0,0,27.75,C111,C
+450,1,1,male,49.0,1,0,89.1042,C92,C
+451,0,3,male,28.0,0,0,8.05,Not Assigned,S
+452,1,3,male,29.0,0,0,7.8958,Not Assigned,C
+453,0,1,male,65.0,0,0,26.55,E38,S
+454,1,1,female,28.0,1,0,51.8625,D21,S
+455,1,2,female,50.0,0,0,10.5,Not Assigned,S
+456,0,3,male,28.0,0,0,7.75,Not Assigned,Q
+457,1,1,male,48.0,0,0,26.55,E12,S
+458,0,3,male,34.0,0,0,8.05,Not Assigned,S
+459,0,1,male,47.0,0,0,38.5,E63,S
+460,0,2,male,48.0,0,0,13.0,Not Assigned,S
+461,0,3,male,28.0,0,0,8.05,Not Assigned,S
+462,0,3,male,38.0,0,0,7.05,Not Assigned,S
+463,0,2,male,28.0,0,0,0.0,Not Assigned,S
+464,0,1,male,56.0,0,0,26.55,Not Assigned,S
+465,0,3,male,28.0,0,0,7.725,Not Assigned,Q
+466,1,3,female,0.75,2,1,19.2583,Not Assigned,C
+467,0,3,male,28.0,0,0,7.25,Not Assigned,S
+468,0,3,male,38.0,0,0,8.6625,Not Assigned,S
+469,1,2,female,33.0,1,2,27.75,Not Assigned,S
+470,1,2,female,23.0,0,0,13.7917,D,C
+471,0,3,female,22.0,0,0,9.8375,Not Assigned,S
+472,0,1,male,28.0,0,0,52.0,A14,S
+473,0,2,male,34.0,1,0,21.0,Not Assigned,S
+474,0,3,male,29.0,1,0,7.0458,Not Assigned,S
+475,0,3,male,22.0,0,0,7.5208,Not Assigned,S
+476,1,3,female,2.0,0,1,12.2875,Not Assigned,S
+477,0,3,male,9.0,5,2,46.9,Not Assigned,S
+478,0,2,male,28.0,0,0,0.0,Not Assigned,S
+479,0,3,male,50.0,0,0,8.05,Not Assigned,S
+480,1,3,female,63.0,0,0,9.5875,Not Assigned,S
+481,1,1,male,25.0,1,0,91.0792,B49,C
+482,0,3,female,28.0,3,1,25.4667,Not Assigned,S
+483,1,1,female,35.0,1,0,90.0,C93,S
+484,0,1,male,58.0,0,0,29.7,B37,C
+485,0,3,male,30.0,0,0,8.05,Not Assigned,S
+486,1,3,male,9.0,1,1,15.9,Not Assigned,S
+487,0,3,male,28.0,1,0,19.9667,Not Assigned,S
+488,0,3,male,21.0,0,0,7.25,Not Assigned,S
+489,0,1,male,55.0,0,0,30.5,C30,S
+490,0,1,male,71.0,0,0,49.5042,Not Assigned,C
+491,0,3,male,21.0,0,0,8.05,Not Assigned,S
+492,0,3,male,28.0,0,0,14.4583,Not Assigned,C
+493,1,1,female,54.0,1,0,78.2667,D20,C
+494,0,3,male,28.0,0,0,15.1,Not Assigned,S
+495,0,1,female,25.0,1,2,151.55,C22 C26,S
+496,0,3,male,24.0,0,0,7.7958,Not Assigned,S
+497,0,3,male,17.0,0,0,8.6625,Not Assigned,S
+498,0,3,female,21.0,0,0,7.75,Not Assigned,Q
+499,0,3,female,28.0,0,0,7.6292,Not Assigned,Q
+500,0,3,female,37.0,0,0,9.5875,Not Assigned,S
+501,1,1,female,16.0,0,0,86.5,B79,S
+502,0,1,male,18.0,1,0,108.9,C65,C
+503,1,2,female,33.0,0,2,26.0,Not Assigned,S
+504,1,1,male,28.0,0,0,26.55,Not Assigned,S
+505,0,3,male,28.0,0,0,22.525,Not Assigned,S
+506,1,3,male,26.0,0,0,56.4958,Not Assigned,S
+507,1,3,male,29.0,0,0,7.75,Not Assigned,Q
+508,0,3,male,28.0,0,0,8.05,Not Assigned,S
+509,1,1,male,36.0,0,0,26.2875,E25,S
+510,1,1,female,54.0,1,0,59.4,Not Assigned,C
+511,0,3,male,24.0,0,0,7.4958,Not Assigned,S
+512,0,1,male,47.0,0,0,34.0208,D46,S
+513,1,2,female,34.0,0,0,10.5,F33,S
+514,0,3,male,28.0,0,0,24.15,Not Assigned,Q
+515,1,2,female,36.0,1,0,26.0,Not Assigned,S
+516,0,3,male,32.0,0,0,7.8958,Not Assigned,S
+517,1,1,female,30.0,0,0,93.5,B73,S
+518,0,3,male,22.0,0,0,7.8958,Not Assigned,S
+519,0,3,male,28.0,0,0,7.225,Not Assigned,C
+520,1,1,female,44.0,0,1,57.9792,B18,C
+521,0,3,male,28.0,0,0,7.2292,Not Assigned,C
+522,0,3,male,40.5,0,0,7.75,Not Assigned,Q
+523,1,2,female,50.0,0,0,10.5,Not Assigned,S
+524,0,1,male,28.0,0,0,221.7792,C95,S
+525,0,3,male,39.0,0,0,7.925,Not Assigned,S
+526,0,2,male,23.0,2,1,11.5,Not Assigned,S
+527,1,2,female,2.0,1,1,26.0,Not Assigned,S
+528,0,3,male,28.0,0,0,7.2292,Not Assigned,C
+529,0,3,male,17.0,1,1,7.2292,Not Assigned,C
+530,1,3,female,28.0,0,2,22.3583,Not Assigned,C
+531,0,3,female,30.0,0,0,8.6625,Not Assigned,S
+532,1,2,female,7.0,0,2,26.25,Not Assigned,S
+533,0,1,male,45.0,0,0,26.55,B38,S
+534,1,1,female,30.0,0,0,106.425,Not Assigned,C
+535,0,3,male,28.0,0,0,14.5,Not Assigned,S
+536,1,1,female,22.0,0,2,49.5,B39,C
+537,1,1,female,36.0,0,2,71.0,B22,S
+538,0,3,female,9.0,4,2,31.275,Not Assigned,S
+539,0,3,female,11.0,4,2,31.275,Not Assigned,S
+540,1,2,male,32.0,1,0,26.0,Not Assigned,S
+541,0,1,male,50.0,1,0,106.425,C86,C
+542,0,1,male,64.0,0,0,26.0,Not Assigned,S
+543,1,2,female,19.0,1,0,26.0,Not Assigned,S
+544,1,2,male,28.0,0,0,13.8625,Not Assigned,C
+545,0,3,male,33.0,1,1,20.525,Not Assigned,S
+546,1,2,male,8.0,1,1,36.75,Not Assigned,S
+547,1,1,male,17.0,0,2,110.8833,C70,C
+548,0,2,male,27.0,0,0,26.0,Not Assigned,S
+549,0,3,male,28.0,0,0,7.8292,Not Assigned,Q
+550,1,3,male,22.0,0,0,7.225,Not Assigned,C
+551,1,3,female,22.0,0,0,7.775,Not Assigned,S
+552,0,1,male,62.0,0,0,26.55,Not Assigned,S
+553,1,1,female,48.0,1,0,39.6,A16,C
+554,0,1,male,28.0,0,0,227.525,Not Assigned,C
+555,1,1,female,39.0,1,1,79.65,E67,S
+556,1,3,female,36.0,1,0,17.4,Not Assigned,S
+557,0,3,male,28.0,0,0,7.75,Not Assigned,Q
+558,0,3,male,40.0,0,0,7.8958,Not Assigned,S
+559,0,2,male,28.0,0,0,13.5,Not Assigned,S
+560,0,3,male,28.0,0,0,8.05,Not Assigned,S
+561,0,3,female,28.0,0,0,8.05,Not Assigned,S
+562,0,3,male,24.0,2,0,24.15,Not Assigned,S
+563,0,3,male,19.0,0,0,7.8958,Not Assigned,S
+564,0,3,female,29.0,0,4,21.075,Not Assigned,S
+565,0,3,male,28.0,0,0,7.2292,Not Assigned,C
+566,1,3,male,32.0,0,0,7.8542,Not Assigned,S
+567,1,2,male,62.0,0,0,10.5,Not Assigned,S
+568,1,1,female,53.0,2,0,51.4792,C101,S
+569,1,1,male,36.0,0,0,26.3875,E25,S
+570,1,3,female,28.0,0,0,7.75,Not Assigned,Q
+571,0,3,male,16.0,0,0,8.05,Not Assigned,S
+572,0,3,male,19.0,0,0,14.5,Not Assigned,S
+573,1,2,female,34.0,0,0,13.0,Not Assigned,S
+574,1,1,female,39.0,1,0,55.9,E44,S
+575,0,3,female,28.0,1,0,14.4583,Not Assigned,C
+576,1,3,male,32.0,0,0,7.925,Not Assigned,S
+577,1,2,female,25.0,1,1,30.0,Not Assigned,S
+578,1,1,female,39.0,1,1,110.8833,C68,C
+579,0,2,male,54.0,0,0,26.0,Not Assigned,S
+580,0,1,male,36.0,0,0,40.125,A10,C
+581,0,3,male,28.0,0,0,8.7125,Not Assigned,C
+582,1,1,female,18.0,0,2,79.65,E68,S
+583,0,2,male,47.0,0,0,15.0,Not Assigned,S
+584,1,1,male,60.0,1,1,79.2,B41,C
+585,0,3,male,22.0,0,0,8.05,Not Assigned,S
+586,0,3,male,28.0,0,0,8.05,Not Assigned,S
+587,0,3,male,35.0,0,0,7.125,Not Assigned,S
+588,1,1,female,52.0,1,0,78.2667,D20,C
+589,0,3,male,47.0,0,0,7.25,Not Assigned,S
+590,0,3,female,28.0,0,2,7.75,Not Assigned,Q
+591,0,2,male,37.0,1,0,26.0,Not Assigned,S
+592,0,3,male,36.0,1,1,24.15,Not Assigned,S
+593,1,2,female,28.0,0,0,33.0,Not Assigned,S
+594,0,3,male,49.0,0,0,0.0,Not Assigned,S
+595,0,3,male,28.0,0,0,7.225,Not Assigned,C
+596,1,1,male,49.0,1,0,56.9292,A20,C
+597,1,2,female,24.0,2,1,27.0,Not Assigned,S
+598,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+599,0,1,male,28.0,0,0,42.4,Not Assigned,S
+600,0,3,male,44.0,0,0,8.05,Not Assigned,S
+601,1,1,male,35.0,0,0,26.55,Not Assigned,C
+602,0,3,male,36.0,1,0,15.55,Not Assigned,S
+603,0,3,male,30.0,0,0,7.8958,Not Assigned,S
+604,1,1,male,27.0,0,0,30.5,Not Assigned,S
+605,1,2,female,22.0,1,2,41.5792,Not Assigned,C
+606,1,1,female,40.0,0,0,153.4625,C125,S
+607,0,3,female,39.0,1,5,31.275,Not Assigned,S
+608,0,3,male,28.0,0,0,7.05,Not Assigned,S
+609,1,3,female,28.0,1,0,15.5,Not Assigned,Q
+610,0,3,male,35.0,0,0,8.05,Not Assigned,S
+611,1,2,female,24.0,1,2,65.0,Not Assigned,S
+612,0,3,male,34.0,1,1,14.4,Not Assigned,S
+613,0,3,female,26.0,1,0,16.1,Not Assigned,S
+614,1,2,female,4.0,2,1,39.0,F4,S
+615,0,2,male,26.0,0,0,10.5,Not Assigned,S
+616,0,3,male,27.0,1,0,14.4542,Not Assigned,C
+617,1,1,male,42.0,1,0,52.5542,D19,S
+618,1,3,male,20.0,1,1,15.7417,Not Assigned,C
+619,0,3,male,21.0,0,0,7.8542,Not Assigned,S
+620,0,3,male,21.0,0,0,16.1,Not Assigned,S
+621,0,1,male,61.0,0,0,32.3208,D50,S
+622,0,2,male,57.0,0,0,12.35,Not Assigned,Q
+623,1,1,female,21.0,0,0,77.9583,D9,S
+624,0,3,male,26.0,0,0,7.8958,Not Assigned,S
+625,0,3,male,28.0,0,0,7.7333,Not Assigned,Q
+626,1,1,male,80.0,0,0,30.0,A23,S
+627,0,3,male,51.0,0,0,7.0542,Not Assigned,S
+628,1,1,male,32.0,0,0,30.5,B50,C
+629,0,1,male,28.0,0,0,0.0,Not Assigned,S
+630,0,3,female,9.0,3,2,27.9,Not Assigned,S
+631,1,2,female,28.0,0,0,13.0,Not Assigned,S
+632,0,3,male,32.0,0,0,7.925,Not Assigned,S
+633,0,2,male,31.0,1,1,26.25,Not Assigned,S
+634,0,3,female,41.0,0,5,39.6875,Not Assigned,S
+635,0,3,male,28.0,1,0,16.1,Not Assigned,S
+636,0,3,male,20.0,0,0,7.8542,Not Assigned,S
+637,1,1,female,24.0,0,0,69.3,B35,C
+638,0,3,female,2.0,3,2,27.9,Not Assigned,S
+639,1,3,male,28.0,0,0,56.4958,Not Assigned,S
+640,1,3,female,0.75,2,1,19.2583,Not Assigned,C
+641,1,1,male,48.0,1,0,76.7292,D33,C
+642,0,3,male,19.0,0,0,7.8958,Not Assigned,S
+643,1,1,male,56.0,0,0,35.5,A26,C
+644,0,3,male,28.0,0,0,7.55,Not Assigned,S
+645,1,3,female,23.0,0,0,7.55,Not Assigned,S
+646,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+647,1,2,female,18.0,0,1,23.0,Not Assigned,S
+648,0,3,male,21.0,0,0,8.4333,Not Assigned,S
+649,1,3,female,28.0,0,0,7.8292,Not Assigned,Q
+650,0,3,female,18.0,0,0,6.75,Not Assigned,Q
+651,0,2,male,24.0,2,0,73.5,Not Assigned,S
+652,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+653,0,3,female,32.0,1,1,15.5,Not Assigned,Q
+654,0,2,male,23.0,0,0,13.0,Not Assigned,S
+655,0,1,male,58.0,0,2,113.275,D48,C
+656,1,1,male,50.0,2,0,133.65,Not Assigned,S
+657,0,3,male,40.0,0,0,7.225,Not Assigned,C
+658,0,1,male,47.0,0,0,25.5875,E58,S
+659,0,3,male,36.0,0,0,7.4958,Not Assigned,S
+660,1,3,male,20.0,1,0,7.925,Not Assigned,S
+661,0,2,male,32.0,2,0,73.5,Not Assigned,S
+662,0,2,male,25.0,0,0,13.0,Not Assigned,S
+663,0,3,male,28.0,0,0,7.775,Not Assigned,S
+664,0,3,male,43.0,0,0,8.05,Not Assigned,S
+665,1,1,female,28.0,1,0,52.0,C126,S
+666,1,2,female,40.0,1,1,39.0,Not Assigned,S
+667,0,1,male,31.0,1,0,52.0,B71,S
+668,0,2,male,70.0,0,0,10.5,Not Assigned,S
+669,1,2,male,31.0,0,0,13.0,Not Assigned,S
+670,0,2,male,28.0,0,0,0.0,Not Assigned,S
+671,0,3,male,18.0,0,0,7.775,Not Assigned,S
+672,0,3,male,24.5,0,0,8.05,Not Assigned,S
+673,1,3,female,18.0,0,0,9.8417,Not Assigned,S
+674,0,3,female,43.0,1,6,46.9,Not Assigned,S
+675,1,1,male,36.0,0,1,512.3292,B51 B53 B55,C
+676,0,3,female,28.0,0,0,8.1375,Not Assigned,Q
+677,1,1,male,27.0,0,0,76.7292,D49,C
+678,0,3,male,20.0,0,0,9.225,Not Assigned,S
+679,0,3,male,14.0,5,2,46.9,Not Assigned,S
+680,0,2,male,60.0,1,1,39.0,Not Assigned,S
+681,0,2,male,25.0,1,2,41.5792,Not Assigned,C
+682,0,3,male,14.0,4,1,39.6875,Not Assigned,S
+683,0,3,male,19.0,0,0,10.1708,Not Assigned,S
+684,0,3,male,18.0,0,0,7.7958,Not Assigned,S
+685,1,1,female,15.0,0,1,211.3375,B5,S
+686,1,1,male,31.0,1,0,57.0,B20,S
+687,1,3,female,4.0,0,1,13.4167,Not Assigned,C
+688,1,3,male,28.0,0,0,56.4958,Not Assigned,S
+689,0,3,male,25.0,0,0,7.225,Not Assigned,C
+690,0,1,male,60.0,0,0,26.55,Not Assigned,S
+691,0,2,male,52.0,0,0,13.5,Not Assigned,S
+692,0,3,male,44.0,0,0,8.05,Not Assigned,S
+693,1,3,female,28.0,0,0,7.7333,Not Assigned,Q
+694,0,1,male,49.0,1,1,110.8833,C68,C
+695,0,3,male,42.0,0,0,7.65,F G63,S
+696,1,1,female,18.0,1,0,227.525,C62 C64,C
+697,1,1,male,35.0,0,0,26.2875,E24,S
+698,0,3,female,18.0,0,1,14.4542,Not Assigned,C
+699,0,3,male,25.0,0,0,7.7417,Not Assigned,Q
+700,0,3,male,26.0,1,0,7.8542,Not Assigned,S
+701,0,2,male,39.0,0,0,26.0,Not Assigned,S
+702,1,2,female,45.0,0,0,13.5,Not Assigned,S
+703,1,1,male,42.0,0,0,26.2875,E24,S
+704,1,1,female,22.0,0,0,151.55,Not Assigned,S
+705,1,3,male,28.0,1,1,15.2458,Not Assigned,C
+706,1,1,female,24.0,0,0,49.5042,C90,C
+707,0,1,male,28.0,0,0,26.55,C124,S
+708,1,1,male,48.0,1,0,52.0,C126,S
+709,0,3,male,29.0,0,0,9.4833,Not Assigned,S
+710,0,2,male,52.0,0,0,13.0,Not Assigned,S
+711,0,3,male,19.0,0,0,7.65,F G73,S
+712,1,1,female,38.0,0,0,227.525,C45,C
+713,1,2,female,27.0,0,0,10.5,E101,S
+714,0,3,male,28.0,0,0,15.5,Not Assigned,Q
+715,0,3,male,33.0,0,0,7.775,Not Assigned,S
+716,1,2,female,6.0,0,1,33.0,Not Assigned,S
+717,0,3,male,17.0,1,0,7.0542,Not Assigned,S
+718,0,2,male,34.0,0,0,13.0,Not Assigned,S
+719,0,2,male,50.0,0,0,13.0,Not Assigned,S
+720,1,1,male,27.0,1,0,53.1,E8,S
+721,0,3,male,20.0,0,0,8.6625,Not Assigned,S
+722,1,2,female,30.0,3,0,21.0,Not Assigned,S
+723,1,3,female,28.0,0,0,7.7375,Not Assigned,Q
+724,0,2,male,25.0,1,0,26.0,Not Assigned,S
+725,0,3,female,25.0,1,0,7.925,Not Assigned,S
+726,1,1,female,29.0,0,0,211.3375,B5,S
+727,0,3,male,11.0,0,0,18.7875,Not Assigned,C
+728,0,2,male,28.0,0,0,0.0,Not Assigned,S
+729,0,2,male,23.0,0,0,13.0,Not Assigned,S
+730,0,3,male,28.5,0,0,16.1,Not Assigned,S
+731,0,3,female,48.0,1,3,34.375,Not Assigned,S
+732,1,1,male,35.0,0,0,512.3292,B101,C
+733,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+734,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+735,1,1,male,28.0,0,0,30.0,D45,S
+736,0,1,male,36.0,1,0,78.85,C46,S
+737,1,1,female,21.0,2,2,262.375,B57 B59 B63 B66,C
+738,0,3,male,24.0,1,0,16.1,Not Assigned,S
+739,1,3,male,31.0,0,0,7.925,Not Assigned,S
+740,0,1,male,70.0,1,1,71.0,B22,S
+741,0,3,male,16.0,1,1,20.25,Not Assigned,S
+742,1,2,female,30.0,0,0,13.0,Not Assigned,S
+743,0,1,male,19.0,1,0,53.1,D30,S
+744,0,3,male,31.0,0,0,7.75,Not Assigned,Q
+745,1,2,female,4.0,1,1,23.0,Not Assigned,S
+746,1,3,male,6.0,0,1,12.475,E121,S
+747,0,3,male,33.0,0,0,9.5,Not Assigned,S
+748,0,3,male,23.0,0,0,7.8958,Not Assigned,S
+749,1,2,female,48.0,1,2,65.0,Not Assigned,S
+750,1,2,male,0.67,1,1,14.5,Not Assigned,S
+751,0,3,male,28.0,0,0,7.7958,Not Assigned,S
+752,0,2,male,18.0,0,0,11.5,Not Assigned,S
+753,0,3,male,34.0,0,0,8.05,Not Assigned,S
+754,1,1,female,33.0,0,0,86.5,B77,S
+755,0,3,male,28.0,0,0,14.5,Not Assigned,S
+756,0,3,male,41.0,0,0,7.125,Not Assigned,S
+757,1,3,male,20.0,0,0,7.2292,Not Assigned,C
+758,1,1,female,36.0,1,2,120.0,B96 B98,S
+759,0,3,male,16.0,0,0,7.775,Not Assigned,S
+760,1,1,female,51.0,1,0,77.9583,D11,S
+761,0,1,male,28.0,0,0,39.6,Not Assigned,C
+762,0,3,female,30.5,0,0,7.75,Not Assigned,Q
+763,0,3,male,28.0,1,0,24.15,Not Assigned,Q
+764,0,3,male,32.0,0,0,8.3625,Not Assigned,S
+765,0,3,male,24.0,0,0,9.5,Not Assigned,S
+766,0,3,male,48.0,0,0,7.8542,Not Assigned,S
+767,0,2,female,57.0,0,0,10.5,E77,S
+768,0,3,male,28.0,0,0,7.225,Not Assigned,C
+769,1,2,female,54.0,1,3,23.0,Not Assigned,S
+770,0,3,male,18.0,0,0,7.75,Not Assigned,S
+771,0,3,male,28.0,0,0,7.75,F38,Q
+772,1,3,female,5.0,0,0,12.475,Not Assigned,S
+773,0,3,male,28.0,0,0,7.7375,Not Assigned,Q
+774,1,1,female,43.0,0,1,211.3375,B3,S
+775,1,3,female,13.0,0,0,7.2292,Not Assigned,C
+776,1,1,female,17.0,1,0,57.0,B20,S
+777,0,1,male,29.0,0,0,30.0,D6,S
+778,0,3,male,28.0,1,2,23.45,Not Assigned,S
+779,0,3,male,25.0,0,0,7.05,Not Assigned,S
+780,0,3,male,25.0,0,0,7.25,Not Assigned,S
+781,1,3,female,18.0,0,0,7.4958,Not Assigned,S
+782,0,3,male,8.0,4,1,29.125,Not Assigned,Q
+783,1,3,male,1.0,1,2,20.575,Not Assigned,S
+784,0,1,male,46.0,0,0,79.2,B82 B84,C
+785,0,3,male,28.0,0,0,7.75,Not Assigned,Q
+786,0,2,male,16.0,0,0,26.0,Not Assigned,S
+787,0,3,female,28.0,8,2,69.55,Not Assigned,S
+788,0,1,male,28.0,0,0,30.6958,Not Assigned,C
+789,0,3,male,25.0,0,0,7.8958,Not Assigned,S
+790,0,2,male,39.0,0,0,13.0,Not Assigned,S
+791,1,1,female,49.0,0,0,25.9292,D17,S
+792,1,3,female,31.0,0,0,8.6833,Not Assigned,S
+793,0,3,male,30.0,0,0,7.2292,Not Assigned,C
+794,0,3,female,30.0,1,1,24.15,Not Assigned,S
+795,0,2,male,34.0,0,0,13.0,Not Assigned,S
+796,1,2,female,31.0,1,1,26.25,Not Assigned,S
+797,1,1,male,11.0,1,2,120.0,B96 B98,S
+798,1,3,male,0.42,0,1,8.5167,Not Assigned,C
+799,1,3,male,27.0,0,0,6.975,Not Assigned,S
+800,0,3,male,31.0,0,0,7.775,Not Assigned,S
+801,0,1,male,39.0,0,0,0.0,A36,S
+802,0,3,female,18.0,0,0,7.775,Not Assigned,S
+803,0,2,male,39.0,0,0,13.0,Not Assigned,S
+804,1,1,female,33.0,1,0,53.1,E8,S
+805,0,3,male,26.0,0,0,7.8875,Not Assigned,S
+806,0,3,male,39.0,0,0,24.15,Not Assigned,S
+807,0,2,male,35.0,0,0,10.5,Not Assigned,S
+808,0,3,female,6.0,4,2,31.275,Not Assigned,S
+809,0,3,male,30.5,0,0,8.05,Not Assigned,S
+810,0,1,male,28.0,0,0,0.0,B102,S
+811,0,3,female,23.0,0,0,7.925,Not Assigned,S
+812,0,2,male,31.0,1,1,37.0042,Not Assigned,C
+813,0,3,male,43.0,0,0,6.45,Not Assigned,S
+814,1,1,female,52.0,1,1,93.5,B69,S
+815,1,3,male,27.0,0,0,8.6625,Not Assigned,S
+816,0,1,male,38.0,0,0,0.0,Not Assigned,S
+817,1,3,female,27.0,0,1,12.475,E121,S
+818,0,3,male,2.0,4,1,39.6875,Not Assigned,S
+819,0,3,male,28.0,0,0,6.95,Not Assigned,Q
+820,0,3,male,28.0,0,0,56.4958,Not Assigned,S
+821,1,2,male,1.0,0,2,37.0042,Not Assigned,C
+822,1,3,male,28.0,0,0,7.75,Not Assigned,Q
+823,1,1,female,62.0,0,0,80.0,B28,S
+824,1,3,female,15.0,1,0,14.4542,Not Assigned,C
+825,1,2,male,0.83,1,1,18.75,Not Assigned,S
+826,0,3,male,28.0,0,0,7.2292,Not Assigned,C
+827,0,3,male,23.0,0,0,7.8542,Not Assigned,S
+828,0,3,male,18.0,0,0,8.3,Not Assigned,S
+829,1,1,female,39.0,1,1,83.1583,E49,C
+830,0,3,male,21.0,0,0,8.6625,Not Assigned,S
+831,0,3,male,28.0,0,0,8.05,Not Assigned,S
+832,1,3,male,32.0,0,0,56.4958,Not Assigned,S
+833,1,1,male,28.0,0,0,29.7,C47,C
+834,0,3,male,20.0,0,0,7.925,Not Assigned,S
+835,0,2,male,16.0,0,0,10.5,Not Assigned,S
+836,1,1,female,30.0,0,0,31.0,Not Assigned,C
+837,0,3,male,34.5,0,0,6.4375,Not Assigned,C
+838,0,3,male,17.0,0,0,8.6625,Not Assigned,S
+839,0,3,male,42.0,0,0,7.55,Not Assigned,S
+840,0,3,male,28.0,8,2,69.55,Not Assigned,S
+841,0,3,male,35.0,0,0,7.8958,Not Assigned,C
+842,0,2,male,28.0,0,1,33.0,Not Assigned,S
+843,1,1,female,28.0,1,0,89.1042,C92,C
+844,0,3,male,4.0,4,2,31.275,Not Assigned,S
+845,0,3,male,74.0,0,0,7.775,Not Assigned,S
+846,0,3,female,9.0,1,1,15.2458,Not Assigned,C
+847,1,1,female,16.0,0,1,39.4,D28,S
+848,0,2,female,44.0,1,0,26.0,Not Assigned,S
+849,1,3,female,18.0,0,1,9.35,Not Assigned,S
+850,1,1,female,45.0,1,1,164.8667,Not Assigned,S
+851,1,1,male,51.0,0,0,26.55,E17,S
+852,1,3,female,24.0,0,3,19.2583,Not Assigned,C
+853,0,3,male,28.0,0,0,7.2292,Not Assigned,C
+854,0,3,male,41.0,2,0,14.1083,Not Assigned,S
+855,0,2,male,21.0,1,0,11.5,Not Assigned,S
+856,1,1,female,48.0,0,0,25.9292,D17,S
+857,0,3,female,28.0,8,2,69.55,Not Assigned,S
+858,0,2,male,24.0,0,0,13.0,Not Assigned,S
+859,1,2,female,42.0,0,0,13.0,Not Assigned,S
+860,1,2,female,27.0,1,0,13.8583,Not Assigned,C
+861,0,1,male,31.0,0,0,50.4958,A24,S
+862,0,3,male,28.0,0,0,9.5,Not Assigned,S
+863,1,3,male,4.0,1,1,11.1333,Not Assigned,S
+864,0,3,male,26.0,0,0,7.8958,Not Assigned,S
+865,1,1,female,47.0,1,1,52.5542,D35,S
+866,0,1,male,33.0,0,0,5.0,B51 B53 B55,S
+867,0,3,male,47.0,0,0,9.0,Not Assigned,S
+868,1,2,female,28.0,1,0,24.0,Not Assigned,C
+869,1,3,female,15.0,0,0,7.225,Not Assigned,C
+870,0,3,male,20.0,0,0,9.8458,Not Assigned,S
+871,0,3,male,19.0,0,0,7.8958,Not Assigned,S
+872,0,3,male,28.0,0,0,7.8958,Not Assigned,S
+873,1,1,female,56.0,0,1,83.1583,C50,C
+874,1,2,female,25.0,0,1,26.0,Not Assigned,S
+875,0,3,male,33.0,0,0,7.8958,Not Assigned,S
+876,0,3,female,22.0,0,0,10.5167,Not Assigned,S
+877,0,2,male,28.0,0,0,10.5,Not Assigned,S
+878,0,3,male,25.0,0,0,7.05,Not Assigned,S
+879,0,3,female,39.0,0,5,29.125,Not Assigned,Q
+880,0,2,male,27.0,0,0,13.0,Not Assigned,S
+881,1,1,female,19.0,0,0,30.0,B42,S
+882,0,3,female,28.0,1,2,23.45,Not Assigned,S
+883,1,1,male,26.0,0,0,30.0,C148,C
+884,0,3,male,32.0,0,0,7.75,Not Assigned,Q
